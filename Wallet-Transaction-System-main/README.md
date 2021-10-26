@@ -8,7 +8,7 @@
 
 <!-- ### 3) Postgresql database for maintaining the account balances and the transaction logs which is hosted on heroku. -->
 
-### 4) Navigate into the project Folder under name Malli and Run the application using (python manage.py runserver)
+### 3) Navigate into the project Folder under name Malli and Run the application using (python manage.py runserver)
 
 ## The implemented functions include:
 
